@@ -1,0 +1,21 @@
+.block11 .is-show {
+	max-height: revert;
+}
+.block11 .is-show:before {
+	content: none;
+}
+.block3 .second__window .second__footer-text{
+	margin: 1em 0;
+	font-size: 2em;
+}
+.second__text {
+	padding: 10px;
+	border: 5px solid #fff;
+	background: rgba(255 255 255 / .25);
+	margin-bottom: 2em;
+	font-size: 1.25em;
+}
+
+.block3 .second__window .second__title  {
+	margin: 1em 0;
+}
